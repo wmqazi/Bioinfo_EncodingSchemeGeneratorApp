@@ -1,0 +1,22 @@
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeGeneratorApp.exe
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeGeneratorApp.pdb
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeManagementLib.dll
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\BinaryFileIOManager.dll
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeManagementLib.pdb
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\BinaryFileIOManager.pdb
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.Properties.Resources.resources
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.csproj.GenerateResource.Cache
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.exe
+G:\Ph. D. Code Base\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.exe
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeGeneratorApp.exe
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeGeneratorApp.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeManagementLib.dll
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\BinaryFileIOManager.dll
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeManagementLib.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\BinaryFileIOManager.pdb
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.Properties.Resources.resources
+D:\Ph. D. Code Base 2\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.csproj.GenerateResource.Cache

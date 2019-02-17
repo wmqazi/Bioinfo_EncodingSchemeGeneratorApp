@@ -1,0 +1,13 @@
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.exe
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.pdb
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeGeneratorApp.exe
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeGeneratorApp.pdb
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeManagementLib.dll
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\BinaryFileIOManager.dll
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\EncodingSchemeManagementLib.pdb
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\bin\Debug\BinaryFileIOManager.pdb
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\ResolveAssemblyReference.cache
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.Properties.Resources.resources
+E:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.csproj.GenerateResource.Cache
+G:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.exe
+G:\BINS versio\New folder\EncodingSchemeGeneratorApp\EncodingSchemeGeneratorApp\obj\Debug\EncodingSchemeGeneratorApp.pdb

@@ -1,0 +1,11 @@
+obj\Debug\EncodingSchemeGeneratorApp.exe
+obj\Debug\EncodingSchemeGeneratorApp.pdb
+bin\Debug\EncodingSchemeGeneratorApp.exe
+bin\Debug\EncodingSchemeGeneratorApp.pdb
+bin\Debug\EncodingSchemeManagementLib.dll
+bin\Debug\BinaryFileIOManager.dll
+bin\Debug\EncodingSchemeManagementLib.pdb
+bin\Debug\BinaryFileIOManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EncodingSchemeGeneratorApp.Properties.Resources.resources
+obj\Debug\EncodingSchemeGeneratorApp.csproj.GenerateResource.Cache
